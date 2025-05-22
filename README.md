@@ -3,9 +3,13 @@ A complete end-to-end IoT solution using Raspberry Pi, Python, and Microsoft Azu
 
 # Features
 • Multiple sensors (DHT22, ultrasonic, soil moisture, VEML7700) into a custom hardware circuit, capturing real-time data from both indoor and outdoor plant environments.
+
 • Flask-based web dashboard to visualize sensor data, health scores, and personalized recommendations based on plant conditions.
+
 • Configured Azure IoT Hub, Stream Analytics, Blob Storage, and Power BI to securely transmit, process, and visualize sensor data; implemented SQL queries for real-time data analytics and alerts.
+
 • Hybrid storage solution using SQLite for local data persistence and Azure Blob Storage for cloud scalability while minimizing resource costs.
+
 • Secure data handling with SAS tokens, encrypted transmission, and container access control within Azure.
 
 # Full circuit
