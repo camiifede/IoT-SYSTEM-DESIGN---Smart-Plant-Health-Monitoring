@@ -11,7 +11,7 @@ A complete end-to-end IoT solution using Raspberry Pi, Python, and Microsoft Azu
 # Full circuit
 ![image](https://github.com/user-attachments/assets/8ce2d630-9ccd-47a0-9dfa-7c7fdbea9752)
 
-# Data readings and visualisation
+# Sample data readings and visualisation
 ![image](https://github.com/user-attachments/assets/eb875e07-9996-497d-af4e-780bcdf70067)
 
 # Flask web app
